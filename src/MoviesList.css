@@ -1,9 +1,11 @@
 .MovieList-container{
    margin-top: 1rem;
+   margin-bottom: 1.5rem;
 }
 
 table{
-    width: 90%;
+    width: 82.5%;
+    margin: auto;
 }
 
 table th{
